@@ -13,7 +13,7 @@
 
   <body>
   	<div class="jumbotron text-center bg-custom headWeb" style="margin-bottom:0;background-position: 0px -100px;">
-	  <h1>Website Qurban</h1>
+	  <h1>Website Qurbans</h1>
 	  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 	  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim.</p> 
 	</div>
