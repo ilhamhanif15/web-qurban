@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="<?php echo parse_url(base_url().'assets/bootstrap4/css/bootstrap.min.css', PHP_URL_PATH) ?>" >
     <link rel="stylesheet" type="text/css" href="<?php echo parse_url(base_url().'assets/additional/custom.css', PHP_URL_PATH) ?>">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.4.2/css/all.css">
-    <title>Hello, world!</title>
+    <title>Home</title>
   </head>
 
   <body>
